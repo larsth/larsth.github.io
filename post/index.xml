@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Lars Tørnes Hansen | Blog</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://www.larsth.dk/post/</link>
     <description>Recent content in Posts on Lars Tørnes Hansen | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-DK</language>
     <copyright>Copyright &amp;copy; 2015 Lars Tørnes Hansen</copyright>
     <lastBuildDate>Wed, 22 Apr 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.larsth.dk/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GPSD opstart, del 3: Så virker det!</title>
-      <link>http://localhost:1313/post/gpsd-opstart-del-3-saa-virker-det/</link>
+      <link>http://www.larsth.dk/post/gpsd-opstart-del-3-saa-virker-det/</link>
       <pubDate>Wed, 22 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/gpsd-opstart-del-3-saa-virker-det/</guid>
+      <guid>http://www.larsth.dk/post/gpsd-opstart-del-3-saa-virker-det/</guid>
       <description>&lt;p&gt;I føljetonen på opstart af gpsd servicen, så har jeg endelig løst problemet.&lt;/p&gt;
 
 &lt;p&gt;Race conditions / concurrency problemer er notorisk svære at løse,
