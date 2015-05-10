@@ -12,10 +12,10 @@
     
     <item>
       <title>GPSD opstart, del 3: Så virker det!</title>
-      <link>http://www.larsth.dk/post/gpsd-opstart-del-3-saa-virker-det/</link>
+      <link>http://www.larsth.dk/2015/04/22/gpsd-opstart-del-3-saa-virker-det/</link>
       <pubDate>Wed, 22 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.larsth.dk/post/gpsd-opstart-del-3-saa-virker-det/</guid>
+      <guid>http://www.larsth.dk/2015/04/22/gpsd-opstart-del-3-saa-virker-det/</guid>
       <description>&lt;p&gt;I føljetonen på opstart af gpsd servicen, så har jeg endelig løst problemet.&lt;/p&gt;
 
 &lt;p&gt;Race conditions / concurrency problemer er notorisk svære at løse,
